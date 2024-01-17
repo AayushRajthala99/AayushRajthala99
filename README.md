@@ -1,5 +1,4 @@
-[![Aayush Rajthala Portfolio](https://github.com/AayushRajthala99/AayushRajthala99/assets/48017699/e9d50677-d432-462d-8185-cf20969657d3)](https://aayushrajthala.com.np/)
-
+[![Aayush Rajthala Portfolio](https://github.com/AayushRajthala99/AayushRajthala99/assets/48017699/b7f903c2-fe7b-4183-8704-ed9b14daccd2)](https://aayushrajthala.com.np/)
 
 # <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32" height="32"> Hi, I am Aayush Rajthala!
 
