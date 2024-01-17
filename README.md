@@ -55,7 +55,7 @@ I am a CyberSecurity Research Analyst and Tech Enthusiast. I love to learn new t
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayushrajthala99&layout=compact&langs_count=10&theme=radical&hide=jupyter%20notebook,c%2B%2B"/>
 </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushrajthala99&show_icons=true&theme=tokyonight_duo" alt="aayushrajthala99" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushrajthala99&show_icons=true&theme=tokyonight_duo" alt="aayushrajthala99" /></p> -->
 
 <!--
 <p align="center">
