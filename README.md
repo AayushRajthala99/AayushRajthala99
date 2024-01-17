@@ -1,3 +1,6 @@
+[![Aayush Rajthala Portfolio](https://github.com/AayushRajthala99/AayushRajthala99/assets/48017699/e9d50677-d432-462d-8185-cf20969657d3)](https://aayushrajthala.com.np/)
+
+
 # <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32" height="32"> Hi, I am Aayush Rajthala!
 
 I am a CyberSecurity Research Analyst and Tech Enthusiast. I love to learn new things and challenge myself.
