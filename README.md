@@ -22,7 +22,7 @@ I am a Certified CyberSecurity Professional and Tech Enthusiast. I love to learn
 
 ### 🛠 Tools and Technologies
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/ >
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/ >
   <img src="https://github.com/AayushRajthala99/Dev-Icons/blob/master/icons/metasploit/metasploit.png" alt="Metasploit" width="40" height="40"/ >
   <img src="https://github.com/AayushRajthala99/Dev-Icons/blob/master/icons/burpsuite/burpsuite.png" alt="BurpSuite" width="40" height="40"/ >
   <img src="https://github.com/AayushRajthala99/Dev-Icons/blob/master/icons/nmap/nmap-inverted.png" alt="NMAP" width="40" height="40"/ >
