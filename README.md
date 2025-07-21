@@ -1,8 +1,8 @@
-[![Aayush Rajthala Portfolio](https://github.com/AayushRajthala99/AayushRajthala99/assets/48017699/b7f903c2-fe7b-4183-8704-ed9b14daccd2)](https://aayushrajthala.com.np/)
+[![Aayush Rajthala Portfolio](https://github.com/AayushRajthala99/AayushRajthala99/assets/48017699/b7f903c2-fe7b-4183-8704-ed9b14daccd2)](https://aayushrajthala.me)
 
 # <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="32" height="32"> Hi, I am Aayush Rajthala!
 
-I am a CyberSecurity Research Analyst and Tech Enthusiast. I love to learn new things and challenge myself.
+I am a Certified CyberSecurity Professional and Tech Enthusiast. I love to learn, build & break things and challenge myself.
 
 - 🌱 I’m currently learning Scripting & Offensive Penetration Testing
 - 👀 I’m interested in Ethical Hacking, CyberSecurity & Automation
